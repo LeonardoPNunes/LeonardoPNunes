@@ -4,7 +4,7 @@
 
 [![Portfólio](https://img.shields.io/badge/Visite_meu_Portfólio-FF8C00?style=for-the-badge&logo=portfolio&logoColor=white)](https://portfolio-project-leo.vercel.app/)
 
----
+## Redes Sociais:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-paulo-nunes-de-freitas/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardopnf/)
@@ -23,7 +23,7 @@ Sou apaixonado por tecnologia e programação desde os 16 anos, tenho foco no de
 
 ## Tecnologias que uso em meu dia a dia
 
-<div style="display:inline-block"><br/>
+<div style="display:inline-block;"><br/>
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
@@ -38,6 +38,11 @@ Sou apaixonado por tecnologia e programação desde os 16 anos, tenho foco no de
 <img align="center" src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components"/>
 <img align="center" src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Context API"/>
 <img align="center" src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
+<img align="center" src="https://img.shields.io/badge/Yup-000000?style=for-the-badge&logo=yup&logoColor=white" alt="Yup"/>
+<img align="center" src="https://img.shields.io/badge/Formik-ff6f61?style=for-the-badge&logo=formik&logoColor=white" alt="Formik"/>
+
+## Em processo de aprendizado
+
 <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 <img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 
