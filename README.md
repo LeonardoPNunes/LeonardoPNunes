@@ -56,8 +56,6 @@ Sou apaixonado por tecnologia e programação desde os 16 anos, tenho foco no de
   <img align="center" src="https://img.shields.io/badge/Desenvolvimento_Responsivo-03A9F4?style=for-the-badge&logo=responsive&logoColor=white" alt="Desenvolvimento Responsivo"/>
 </div>
 
----
-
 ## Soft Skills:
 
 <div style="display:inline-block"><br/>
@@ -66,8 +64,6 @@ Sou apaixonado por tecnologia e programação desde os 16 anos, tenho foco no de
   <img align="center" src="https://img.shields.io/badge/Proatividade-FF9800?style=for-the-badge&logo=proactive&logoColor=white" alt="Proatividade"/>
   <img align="center" src="https://img.shields.io/badge/Adaptabilidade-9C27B0?style=for-the-badge&logo=adaptability&logoColor=white" alt="Adaptabilidade"/>
 </div>
-
----
 
 ## Metodologias de Trabalho:
 
@@ -78,16 +74,12 @@ Sou apaixonado por tecnologia e programação desde os 16 anos, tenho foco no de
   <img align="center" src="https://img.shields.io/badge/Agile-FF4500?style=for-the-badge&logo=agile&logoColor=white" alt="Metodologias Ágeis"/>
 </div>
 
----
-
 ## Gerenciamento de Projetos:
 
 <div style="display:inline-block"><br/>
   <img align="center" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
   <img align="center" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </div>
-
----
 
 ## Ferramentas de Comunicação:
 
@@ -98,8 +90,6 @@ Sou apaixonado por tecnologia e programação desde os 16 anos, tenho foco no de
   <img align="center" src="https://img.shields.io/badge/Google_Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white" alt="Google Meet"/>
 </div>
 
----
-
 ## Controle de Versão e Gerenciamento de Código:
 
 <div style="display:inline-block"><br/>
@@ -108,7 +98,6 @@ Sou apaixonado por tecnologia e programação desde os 16 anos, tenho foco no de
   <img align="center" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
 </div>
 
----
 
 ## Familiaridade com Acesso Remoto:
 
@@ -129,3 +118,4 @@ Sou apaixonado por tecnologia e programação desde os 16 anos, tenho foco no de
 
 ## Contato
 📧 E-mail: leonardo.desenvolvedorfront@gmail.com
+
